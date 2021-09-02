@@ -1,0 +1,10 @@
+C:\Users\subma\Desktop\LinkDownloader\LinkDownloader\bin\Release\LinkDownloader.exe.config
+C:\Users\subma\Desktop\LinkDownloader\LinkDownloader\bin\Release\LinkDownloader.exe
+C:\Users\subma\Desktop\LinkDownloader\LinkDownloader\bin\Release\LinkDownloader.pdb
+C:\Users\subma\Desktop\LinkDownloader\LinkDownloader\obj\Release\LinkDownloader.Form1.resources
+C:\Users\subma\Desktop\LinkDownloader\LinkDownloader\obj\Release\LinkDownloader.Properties.Resources.resources
+C:\Users\subma\Desktop\LinkDownloader\LinkDownloader\obj\Release\LinkDownloader.csproj.GenerateResource.cache
+C:\Users\subma\Desktop\LinkDownloader\LinkDownloader\obj\Release\LinkDownloader.csproj.CoreCompileInputs.cache
+C:\Users\subma\Desktop\LinkDownloader\LinkDownloader\obj\Release\LinkDownloader.exe
+C:\Users\subma\Desktop\LinkDownloader\LinkDownloader\obj\Release\LinkDownloader.pdb
+C:\Users\subma\Desktop\LinkDownloader\LinkDownloader\obj\Release\LinkDownloader.csprojAssemblyReference.cache
